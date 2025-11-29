@@ -1,7 +1,21 @@
 # SamarScore-Chat-bot
+
 Projeto de chat bot realizado pelo grupo SamarScore da turma de EC 6 da Faculdade Engenheiro Salvador Arena.
 
-Descrição Técnica do Projeto
+# Integrantes:
+
+Arthur Destro — 81230047 — 081230047@faculdade.cefsa.edu.br
+Gustavo Alves — 81230023 — 081230023@faculdade.cefsa.edu.br
+Gustavo Mauriz — 81230040 — 081230040@faculdade.cefsa.edu.br
+Samar Victor — 81230035 — 081230035@faculdade.cefsa.edu.br
+Vinicius Strazza — 81230036 — 081230036@faculdade.cefsa.edu.br
+Vitor Barbosa — 81230037 — 081230037@faculdade.cefsa.edu.br
+
+# Link do vídeo:
+
+ https://www.youtube.com/watch?v=uLmTkLxW6Kg 
+
+# Descrição Técnica do Projeto
 
 Este circuito demonstra a aplicação prática de componentes digitais fundamentais, como memórias ROM, contadores, comparadores e flip-flops, para a construção de uma máquina de estados finitos capaz de processamento de texto e interação humano-máquina simplificada.
 

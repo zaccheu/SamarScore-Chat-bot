@@ -1,0 +1,32 @@
+PROMPTS DO CHATBOT
+
+Oi
+Qual o seu nome?
+Projeto
+Que time voce torce?
+Truco!
+SEIS!
+Desce!
+Qual o melhor jogador do mundo?
+Qual a sua serie favorita?
+Say my name
+Conte uma piada
+Que horas sao?
+Pele ou Maradona?
+Marvel ou DC?
+Konami code
+Conte uma mentira
+Playstation ou Xbox?
+Voce vai dominar o mundo?
+Qual sua banda favorita?
+Aniversario
+Grupo
+Quem e seu idolo?
+Voce tem filhos?
+Qual o seu maior medo?
+Qual sua comida favorita?
+Sonho
+Qual seu jogo favorito?
+Bug
+Eu te amo!
+Tchau
